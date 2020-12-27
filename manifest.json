@@ -3,6 +3,7 @@
   "name": "QueenS Delight Cafe",
   "lang": "en",
   "description": "Best food in CT",
+  "start_url": "/",
   "background_color": "#000000",
   "theme_color": "#000000",
   "dir": "ltr",
